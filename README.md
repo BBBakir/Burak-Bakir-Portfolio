@@ -13,16 +13,16 @@ A project for supporting customer service to increase service quality.Provide qu
   <img src="images/podoAI1.png" alt="AI 2" style="width: 50%; margin-left: 5px; margin-bottom: 10px;">
 </div>
 
-</br>
-</br>
+<br>
+<br>
 
 ---
 
 ---
 
 
-</br>
-</br>
+<br>
+<br>
 
 ## [Aurora App](https://github.com/BBBakir/aurora)
 A project that supports people suffering from addictions for GDSC Solution Challenge
@@ -41,15 +41,15 @@ The aim of the application designed to help those with addiction is to provide a
 <img src="https://github.com/Aspendas/aurora/blob/master/images/app/4.jpeg?raw=true" alt="app showcase 4" width="250"  style="margin-left: 5px; margin-bottom: 10px;">
 </div>
 
-</br>
-</br>
+<br>
+<br>
 
 ---
 
 ---
 
-</br>
-</br>
+<br>
+<br>
 
 ## [Project S.O.S.](https://github.com/BBBakir/S.O.S)
 
@@ -66,15 +66,15 @@ Course project. Web application demo in order to help donors and those in need o
   <img src="https://github.com/BBBakir/S.O.S/assets/92781750/55726d3c-b409-4da2-8430-ba9f5179d762" alt="S.O.S Project Screenshot 2" style="width: 50%; margin-left: 5px; margin-bottom: 10px;">
 </div>
 
-</br>
-</br>
+<br>
+<br>
 
 ---
 
 ---
 
-</br>
-</br>
+<br>
+<br>
 
 ## [LAV Company Route Planner](https://github.com/BBBakir/RoutePlanner)
 Vehicle Route planner using OR algorithm and GUI with PyQt6.
