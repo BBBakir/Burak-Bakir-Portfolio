@@ -18,8 +18,6 @@ A project for supporting customer service to increase service quality.Provide qu
 
 ---
 
----
-
 
 <br>
 <br>
@@ -46,8 +44,6 @@ The aim of the application designed to help those with addiction is to provide a
 
 ---
 
----
-
 <br>
 <br>
 
@@ -68,8 +64,6 @@ Course project. Web application demo in order to help donors and those in need o
 
 <br>
 <br>
-
----
 
 ---
 
