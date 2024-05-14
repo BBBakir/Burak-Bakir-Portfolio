@@ -1,4 +1,4 @@
-## AI Chatbot
+# AI Chatbot
 A project for supporting customer service to increase service quality.Provide quick and accurate responses to enhance user experience and automate routine tasks, freeing up human agents for noncomplex time consuming issues.
 
 ### 🖥️ Technology Stack :
@@ -22,7 +22,7 @@ A project for supporting customer service to increase service quality.Provide qu
 <br>
 <br>
 
-## [Aurora App](https://github.com/BBBakir/aurora)
+# [Aurora App](https://github.com/BBBakir/aurora)
 A project that supports people suffering from addictions for GDSC Solution Challenge
 
 ### 🚀 Project Aim
@@ -47,7 +47,7 @@ The aim of the application designed to help those with addiction is to provide a
 <br>
 <br>
 
-## [Project S.O.S.](https://github.com/BBBakir/S.O.S)
+# [Project S.O.S.](https://github.com/BBBakir/S.O.S)
 
 Course project. Web application demo in order to help donors and those in need of donations during earthquakes. This application facilitates making changes in the database via a user-friendly web interface, leveraging UI and UX elements.
 
