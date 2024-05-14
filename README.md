@@ -1,4 +1,4 @@
-## Podo AI Chatbot
+## AI Chatbot
 A project for supporting customer service to increase service quality.Provide quick and accurate responses to enhance user experience and automate routine tasks, freeing up human agents for noncomplex time consuming issues.
 
 ### Technology Stack:
@@ -8,9 +8,9 @@ A project for supporting customer service to increase service quality.Provide qu
 **Models:** Employ a sentence encoder model and a similarity model for clustering answers, and a generative language model for generating responses.
 
 ### App Showcase
-<div style="display: flex;">
-<img src="images/podoAI2.png" alt="app showcase 1" width="250" style="margin-left: 10px;">>
-<img src="images/podoAI1.png" alt="app showcase 3" width="250" style="margin-left: 10px;" >
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/podoAI2.png" alt="AI 1" style="width: 65%; margin-right: 5px;">
+  <img src="images/podoAI1.png" alt="AI 2" style="width: 65%; margin-left: 5px;">
 </div>
 
 ---
