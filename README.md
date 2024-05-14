@@ -9,8 +9,8 @@ A project for supporting customer service to increase service quality.Provide qu
 
 ### App Showcase
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/podoAI2.png" alt="AI 1" style="width: 65%; margin-right: 5px; margin-bottom: 10px;">
-  <img src="images/podoAI1.png" alt="AI 2" style="width: 65%; margin-left: 5px; margin-bottom: 10px;">
+  <img src="images/podoAI2.png" alt="AI 1" style="width: 50%; margin-right: 5px; margin-bottom: 10px;">
+  <img src="images/podoAI1.png" alt="AI 2" style="width: 50%; margin-left: 5px; margin-bottom: 10px;">
 </div>
 
 <br> 
@@ -25,8 +25,8 @@ A project that supports people suffering from addictions for GDSC Solution Chall
 The aim of the application designed to help those with addiction is to provide a supportive and effective tool for individuals struggling with addictive behaviors. The app is intended to serve as a resource for individuals seeking to overcome their addiction by offering them information, guidance, and tools to aid them in their recovery journey. 
 
 ### Technology Stack
-**Frontend:** **Flutter**
-**Backend:** **Firebase**
+**Frontend:** **Flutter** 
+**Backend:** **Firebase** 
 
 ### App Showcase
 <div style="display: flex;">
@@ -50,8 +50,8 @@ Course project. Web application demo in order to help donors and those in need o
 
 ### S.O.S Project Screenshots
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/BBBakir/S.O.S/assets/92781750/c5a9afd6-b861-4c1e-abf1-4c69bc76f432" alt="S.O.S Project Screenshot 1" style="width: 65%; margin-right: 5px; margin-bottom: 10px;">
-  <img src="https://github.com/BBBakir/S.O.S/assets/92781750/55726d3c-b409-4da2-8430-ba9f5179d762" alt="S.O.S Project Screenshot 2" style="width: 65%; margin-left: 5px; margin-bottom: 10px;">
+  <img src="https://github.com/BBBakir/S.O.S/assets/92781750/c5a9afd6-b861-4c1e-abf1-4c69bc76f432" alt="S.O.S Project Screenshot 1" style="width: 50%; margin-right: 5px; margin-bottom: 10px;">
+  <img src="https://github.com/BBBakir/S.O.S/assets/92781750/55726d3c-b409-4da2-8430-ba9f5179d762" alt="S.O.S Project Screenshot 2" style="width: 50%; margin-left: 5px; margin-bottom: 10px;">
 </div>
 <br>
 ---
