@@ -22,6 +22,10 @@ A project that supports people suffering from addictions for GDSC Solution Chall
 
 The aim of the application designed to help those with addiction is to provide a supportive and effective tool for individuals struggling with addictive behaviors. The app is intended to serve as a resource for individuals seeking to overcome their addiction by offering them information, guidance, and tools to aid them in their recovery journey. 
 
+### Technology Stack
+**Frontend:** Flutter
+**Backend:** Firebase
+
 ### App Showcase
 <div style="display: flex;">
 <img src="https://github.com/Aspendas/aurora/blob/master/images/app/1.jpeg?raw=true" alt="app showcase 1" width="250" style="margin-right: 5px;" >
