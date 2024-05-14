@@ -23,21 +23,21 @@ A project that supports people suffering from addictions for GDSC Solution Chall
 The aim of the application designed to help those with addiction is to provide a supportive and effective tool for individuals struggling with addictive behaviors. The app is intended to serve as a resource for individuals seeking to overcome their addiction by offering them information, guidance, and tools to aid them in their recovery journey. 
 
 ### App Showcase
-<div style="display: flex; style="margin-right: 30px;">
-<img src="https://github.com/Aspendas/aurora/blob/master/images/app/1.jpeg?raw=true" alt="app showcase 1" width="250" style="margin-bottom: 30px;">
-<img src="https://github.com/Aspendas/aurora/blob/master/images/app/3.jpeg?raw=true" alt="app showcase 3" width="250" style="margin-left: 20px;  margin-bottom:30px;">
+<div style="display: flex;">
+<img src="https://github.com/Aspendas/aurora/blob/master/images/app/1.jpeg?raw=true" alt="app showcase 1" width="250" style="margin-right: 5px;" >
+<img src="https://github.com/Aspendas/aurora/blob/master/images/app/4.jpeg?raw=true" alt="app showcase 4" width="250"  style="margin-left: 5px;">
 </div>
 
 ---
 
-## Project S.O.S.
+## [Project S.O.S.](https://github.com/BBBakir/S.O.S)
 
 Course project. Web application demo in order to help donors and those in need of donations during earthquakes. This application facilitates making changes in the database via a user-friendly web interface, leveraging UI and UX elements.
 
 ### Technology Stack:
-**Frontend:** HTML, CSS, Bootstrap
-**Backend:** Django 
-**Database:** SQLite
+**Frontend:** HTML, CSS, Bootstrap \
+**Backend:** Django  \
+**Database:** SQLite \
 
 ### S.O.S Project Screenshots
 <div style="display: flex; justify-content: space-between;">
